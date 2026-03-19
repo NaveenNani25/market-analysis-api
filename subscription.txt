@@ -1,0 +1,479 @@
+{
+  "stocks": {
+    "indian": [
+      "RELIANCE.NS",
+      "TCS.NS",
+      "HDFCBANK.NS",
+      "ICICIBANK.NS",
+      "HINDUNILVR.NS",
+      "INFY.NS",
+      "ITC.NS",
+      "SBIN.NS",
+      "BHARTIARTL.NS",
+      "KOTAKBANK.NS",
+      "BAJFINANCE.NS",
+      "LT.NS",
+      "HCLTECH.NS",
+      "ASIANPAINT.NS",
+      "MARUTI.NS",
+      "AXISBANK.NS",
+      "WIPRO.NS",
+      "ULTRACEMCO.NS",
+      "TITAN.NS",
+      "NESTLEIND.NS",
+      "SUNPHARMA.NS",
+      "POWERGRID.NS",
+      "TECHM.NS",
+      "M&M.NS",
+      "NTPC.NS",
+      "TATAMOTORS.NS",
+      "BAJAJFINSV.NS",
+      "JSWSTEEL.NS",
+      "INDUSINDBK.NS",
+      "GRASIM.NS",
+      "ADANIENT.NS",
+      "COALINDIA.NS",
+      "CIPLA.NS",
+      "DRREDDY.NS",
+      "EICHERMOT.NS",
+      "ONGC.NS",
+      "BRITANNIA.NS",
+      "DIVISLAB.NS",
+      "TATACONSUM.NS",
+      "BAJAJ-AUTO.NS",
+      "APOLLOHOSP.NS",
+      "HINDALCO.NS",
+      "HEROMOTOCO.NS",
+      "UPL.NS",
+      "ADANIPORTS.NS",
+      "GODREJCP.NS",
+      "PIDILITIND.NS",
+      "BANDHANBNK.NS",
+      "BERGEPAINT.NS",
+      "COLPAL.NS",
+      "DABUR.NS",
+      "HAVELLS.NS",
+      "MARICO.NS",
+      "SRF.NS",
+      "VOLTAS.NS",
+      "SIEMENS.NS",
+      "BAJAJHLDNG.NS",
+      "DLF.NS",
+      "GAIL.NS",
+      "JINDALSTEL.NS",
+      "MOTHERSON.NS",
+      "PAGEIND.NS",
+      "TORNTPHARM.NS",
+      "AMBUJACEM.NS",
+      "BANKBARODA.NS",
+      "BPCL.NS",
+      "CADILAHC.NS",
+      "CANBK.NS",
+      "CONCOR.NS",
+      "CUB.NS",
+      "FEDERALBNK.NS",
+      "GUJGASLTD.NS",
+      "HDFCLIFE.NS",
+      "HDFC.NS",
+      "IBULHSGFIN.NS",
+      "ICICIPRULI.NS",
+      "INDIGO.NS",
+      "IOC.NS",
+      "LUPIN.NS",
+      "MCDOWELL-N.NS",
+      "NMDC.NS",
+      "PETRONET.NS",
+      "PFC.NS",
+      "RECLTD.NS",
+      "SAIL.NS",
+      "SHREECEM.NS",
+      "SBILIFE.NS",
+      "TATACHEM.NS",
+      "TATAPOWER.NS",
+      "TATASTEEL.NS",
+      "VEDL.NS",
+      "ZEEL.NS",
+      "ACC.NS",
+      "AUROPHARMA.NS",
+      "BIOCON.NS",
+      "BOSCHLTD.NS",
+      "ESCORTS.NS",
+      "EXIDEIND.NS",
+      "HINDZINC.NS",
+      "IBVENTURES.NS",
+      "LICHSGFIN.NS",
+      "MANAPPURAM.NS",
+      "MRF.NS",
+      "PEL.NS",
+      "PFIZER.NS",
+      "PNB.NS",
+      "RBLBANK.NS",
+      "SRTRANSFIN.NS",
+      "TVSMOTOR.NS",
+      "UNIONBANK.NS",
+      "YESBANK.NS",
+      "ABCAPITAL.NS",
+      "ALKEM.NS",
+      "APLLTD.NS",
+      "ASHOKLEY.NS",
+      "AIAENG.NS",
+      "BEL.NS",
+      "BHARATFORG.NS",
+      "CESC.NS",
+      "CHOLAFIN.NS",
+      "CROMPTON.NS",
+      "DELTACORP.NS",
+      "DIXON.NS",
+      "EQUITAS.NS",
+      "FORTIS.NS",
+      "FSL.NS",
+      "GMRINFRA.NS",
+      "GRAPHITE.NS",
+      "HATHWAY.NS",
+      "IDFCFIRSTB.NS",
+      "INOXLEISUR.NS",
+      "IGL.NS",
+      "ISEC.NS",
+      "JKCEMENT.NS",
+      "KEI.NS",
+      "L&TFH.NS",
+      "LALPATHLAB.NS",
+      "MINDTREE.NS",
+      "MPHASIS.NS",
+      "NATIONALUM.NS",
+      "NAVINFLUOR.NS",
+      "NHPC.NS",
+      "NIITLTD.NS",
+      "OBEROIRLTY.NS",
+      "PERSISTENT.NS",
+      "POLYCAB.NS",
+      "PVR.NS",
+      "RAMCOCEM.NS",
+      "RAYMOND.NS",
+      "RELAXO.NS",
+      "RENUKA.NS",
+      "SHRIRAMFIN.NS",
+      "SOBHA.NS",
+      "SOLARINDS.NS",
+      "SPARC.NS",
+      "SUNTV.NS",
+      "SUPREMEIND.NS",
+      "SYNGENE.NS",
+      "TANLA.NS",
+      "TEAMLEASE.NS",
+      "THERMAX.NS",
+      "TV18BRDCST.NS",
+      "TVSMOTOR.NS",
+      "UNIONBANK.NS",
+      "VAKRANGEE.NS",
+      "VINATIORGA.NS",
+      "VIPIND.NS",
+      "VTL.NS",
+      "WELCORP.NS",
+      "WHIRLPOOL.NS",
+      "YESBANK.NS",
+      "ZENSARTECH.NS"
+    ],
+    "us": [
+      "AAPL",
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "NVDA",
+      "META",
+      "TSLA",
+      "BRK-B",
+      "AVGO",
+      "LLY",
+      "JPM",
+      "UNH",
+      "XOM",
+      "JNJ",
+      "V",
+      "PG",
+      "MA",
+      "HD",
+      "CVX",
+      "ABBV",
+      "BAC",
+      "PFE",
+      "KO",
+      "ASML",
+      "MRK",
+      "COST",
+      "PEP",
+      "TMO",
+      "WMT",
+      "CSCO",
+      "ABT",
+      "DIS",
+      "CRM",
+      "ACN",
+      "DHR",
+      "VZ",
+      "ADBE",
+      "NKE",
+      "TXN",
+      "NEE",
+      "MCD",
+      "RTX",
+      "QCOM",
+      "WFC",
+      "PM",
+      "BMY",
+      "UPS",
+      "AMGN",
+      "HON",
+      "T",
+      "SPGI",
+      "LOW",
+      "COP",
+      "GS",
+      "SBUX",
+      "UNP",
+      "ELV",
+      "DE",
+      "INTU",
+      "CAT",
+      "AMD",
+      "AXP",
+      "BKNG",
+      "GILD",
+      "MS",
+      "BA",
+      "MDT",
+      "TJX",
+      "SCHW",
+      "PLD",
+      "SYK",
+      "BLK",
+      "ADI",
+      "TMUS",
+      "AMT",
+      "CVS",
+      "META",
+      "MU",
+      "CI",
+      "SO",
+      "VRTX",
+      "NFLX",
+      "INTC",
+      "PYPL",
+      "CMCSA",
+      "NFLX",
+      "INTC",
+      "PYPL",
+      "CMCSA",
+      "NFLX",
+      "INTC",
+      "PYPL",
+      "CMCSA"
+    ]
+  },
+  "crypto": [
+    {
+      "symbol": "BTCUSDT",
+      "name": "Bitcoin"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "name": "Ethereum"
+    },
+    {
+      "symbol": "BNBUSDT",
+      "name": "Binance Coin"
+    },
+    {
+      "symbol": "ADAUSDT",
+      "name": "Cardano"
+    },
+    {
+      "symbol": "SOLUSDT",
+      "name": "Solana"
+    },
+    {
+      "symbol": "DOTUSDT",
+      "name": "Polkadot"
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "name": "Dogecoin"
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "name": "Avalanche"
+    },
+    {
+      "symbol": "LTCUSDT",
+      "name": "Litecoin"
+    },
+    {
+      "symbol": "TRXUSDT",
+      "name": "Tron"
+    },
+    {
+      "symbol": "ETCUSDT",
+      "name": "Ethereum Classic"
+    },
+    {
+      "symbol": "XLMUSDT",
+      "name": "Stellar"
+    },
+    {
+      "symbol": "BCHUSDT",
+      "name": "Bitcoin Cash"
+    },
+    {
+      "symbol": "ICPUSDT",
+      "name": "Internet Computer"
+    },
+    {
+      "symbol": "FILUSDT",
+      "name": "Filecoin"
+    },
+    {
+      "symbol": "LINKUSDT",
+      "name": "Chainlink"
+    },
+    {
+      "symbol": "MATICUSDT",
+      "name": "Polygon"
+    },
+    {
+      "symbol": "ALGOUSDT",
+      "name": "Algorand"
+    },
+    {
+      "symbol": "VETUSDT",
+      "name": "VeChain"
+    },
+    {
+      "symbol": "HBARUSDT",
+      "name": "Hedera"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "name": "NEAR Protocol"
+    },
+    {
+      "symbol": "FLOWUSDT",
+      "name": "Flow"
+    },
+    {
+      "symbol": "MANAUSDT",
+      "name": "Decentraland"
+    },
+    {
+      "symbol": "SANDUSDT",
+      "name": "The Sandbox"
+    },
+    {
+      "symbol": "AXSUSDT",
+      "name": "Axie Infinity"
+    },
+    {
+      "symbol": "CHZUSDT",
+      "name": "Chiliz"
+    },
+    {
+      "symbol": "ENJUSDT",
+      "name": "Enjin Coin"
+    },
+    {
+      "symbol": "BATUSDT",
+      "name": "Basic Attention Token"
+    },
+    {
+      "symbol": "OMGUSDT",
+      "name": "OMG Network"
+    },
+    {
+      "symbol": "ZRXUSDT",
+      "name": "0x"
+    },
+    {
+      "symbol": "LRCUSDT",
+      "name": "Loopring"
+    },
+    {
+      "symbol": "REPUSDT",
+      "name": "Augur"
+    },
+    {
+      "symbol": "ANTUSDT",
+      "name": "Aragon"
+    },
+    {
+      "symbol": "STORJUSDT",
+      "name": "Storj"
+    },
+    {
+      "symbol": "GNTUSDT",
+      "name": "Golem"
+    },
+    {
+      "symbol": "ARKUSDT",
+      "name": "Ark"
+    },
+    {
+      "symbol": "STRATUSDT",
+      "name": "Stratis"
+    },
+    {
+      "symbol": "WAVESUSDT",
+      "name": "Waves"
+    },
+    {
+      "symbol": "LSKUSDT",
+      "name": "Lisk"
+    },
+    {
+      "symbol": "XEMUSDT",
+      "name": "NEM"
+    },
+    {
+      "symbol": "QTUMUSDT",
+      "name": "Qtum"
+    },
+    {
+      "symbol": "BTGUSDT",
+      "name": "Bitcoin Gold"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "name": "Zcash"
+    },
+    {
+      "symbol": "DASHUSDT",
+      "name": "Dash"
+    },
+    {
+      "symbol": "XMRUSDT",
+      "name": "Monero"
+    },
+    {
+      "symbol": "ETCUSDT",
+      "name": "Ethereum Classic"
+    },
+    {
+      "symbol": "BTGUSDT",
+      "name": "Bitcoin Gold"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "name": "Zcash"
+    },
+    {
+      "symbol": "DASHUSDT",
+      "name": "Dash"
+    },
+    {
+      "symbol": "XMRUSDT",
+      "name": "Monero"
+    },
+    {
+      "symbol": "BTGUSDT",
+      "name": "Bitcoin Gold"
+    }
+  ]
+}
